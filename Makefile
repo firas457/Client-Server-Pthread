@@ -17,4 +17,4 @@ server_multiThread.o: server_multiThread.c
 .PHONY: clean all
 
 clean:
-	rm -f *.o server client *.zip
+	rm -f *.o server client
