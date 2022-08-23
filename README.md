@@ -1,3 +1,3 @@
 # operating_systems
 
-using pthread in POSIX thread APIs
+using pthread in POSIX thread APIs in C
